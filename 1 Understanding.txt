@@ -1,0 +1,24 @@
+1 point-by-point summary:
+
+1. The process at Morgan Stanley involves three key activities: pricing activation, data input, and email handling.
+2. Benefits exceed 1500 hours annually, possibly more.
+3. The current process is very manual, involving Excel, Outlook, and heavy human intervention.
+4. There are time-consuming filter criteria and recalculations before sending for activation.
+5. Errors are likely due to manual steps, causing late submissions and risk of penalties.
+6. They plan to bring in a solution from the U.S. team for better efficiency.
+7. Another aspect is volume-driven invoices arriving via email, also manually handled, but now in an automation hub (ID 5558).
+8. Next steps include a demo from the U.S. team to refine the automation process and reduce errors.
+
+Let me know if you need any adjustments! 
+
+
+2 point by point:
+
+1. The team is automating ISIN extraction due to high volume.
+2. ISINs are requested from Euroclear in batches and uploaded to the deal system.
+3. The sales team generates deals by clicking a button in the system.
+4. Historical data (60-day, 30-day, and 20-day) is extracted to analyze deal volumes.
+5. They prepare standardized templates following Euroclear standards.
+6. Once deals are executed, CFISIN codes are generated in Euroclear.
+7. These codes are sent back to the team to finalize pricing supplements.
+8. A demo will be provided to walk through the data extraction process step-by-step.
