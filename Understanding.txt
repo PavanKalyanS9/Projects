@@ -1,0 +1,16 @@
+3 point-by-point summary with those additions:
+
+1. Euroclear provides batches of ISINs, which we upload to the deal portal.
+2. Once uploaded, the sales team creates deals, and a term sheet is generated for each deal.
+3. The term sheet outlines key economic details like ISIN, maturity date, and currency.
+4. We manually review all term sheets to ensure data accuracy before activation.
+5. Once verified, we send the data for activation in Euroclear by end of day.
+6. After activation, Euroclear generates CFF codes.
+7. CFF stands for Common Financial Format, a unique code tied to each deal.
+8. Once CFFs are generated, we release the pricing supplements.
+    1. The daily volume ranges from about 100 deals normally, but can spike to 200 or 300 on high-volume days.
+9. We consolidate data by combining yesterday’s, today’s, and the 60-day files to avoid duplication.
+10. The consolidation ensures no ISINs are missed, by cross-checking all files.
+11. Files we consolidate include the 60-day file, yesterday’s file, and today’s file, all from the deal portal.
+12. We compare them to ensure all relevant deals are accounted for, so we avoid missing or duplicated ISINs.
+13. After consolidation, we manually update missing fields from the term sheet before final submission.
