@@ -1,6 +1,6 @@
 1 point-by-point summary:
 
-1. The process at Morgan Stanley involves three key activities: pricing activation, data input, and email handling.
+1. The process involves three key activities: pricing activation, data input, and email handling.
 2. Benefits exceed 1500 hours annually, possibly more.
 3. The current process is very manual, involving Excel, Outlook, and heavy human intervention.
 4. There are time-consuming filter criteria and recalculations before sending for activation.
